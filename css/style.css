@@ -18,7 +18,7 @@ div {
 footer {
     height: 40px;
     width: 100%;
-    background-color: aqua;
+    background-color: rgb(46, 75, 109);
     position: relative;
     clear: both;
 }
@@ -26,7 +26,7 @@ footer {
 .left-side {
     height: 1000px;
     width: 50px;
-    background-color: aqua;
+    background-color: rgb(46, 75, 109);
     float: left;
     position: fixed;
 }
@@ -34,7 +34,7 @@ footer {
 .right-side {
     height: 1000px;
     width: 50px;
-    background-color: aqua;
+    background-color: rgb(46, 75, 109);
     float: right;
     position: inherit;
 }
